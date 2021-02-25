@@ -13,7 +13,7 @@ Subtractive Notation method is useful for converting Arabic numbers into corresp
  In this program, if input value is skipped, then a default random input value is taken for conversion.
       
 ## How do you get set up ##
-1. Download this project or clone the repository
+1. Download this project or clone the repository.
 2. Go to the project folder
 3. Install virtualenv (optional)
 
