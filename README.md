@@ -13,25 +13,25 @@ Subtractive Notation method is useful for converting Arabic numbers into corresp
  In this program, if input value is skipped, then a default random input value is taken for conversion.
       
 ## How do you get set up ##
-1.Download this project or clone the repository.
-2.Go to the project folder
-3.Install virtualenv (optional)
+1. Download this project or clone the repository.
+2. Go to the project folder
+3. Install virtualenv (optional)
 
         pip install virtualenv
-4.Create a virtual environment(venv) in project root folder (optional)
+4. Create a virtual environment(venv) in project root folder (optional)
 
         virtualenv venv
-5.Go to the project folder and activate virtual environment (optional)
+5. Go to the project folder and activate virtual environment (optional)
 
         venv/Scripts/activate.bat - Windows 
         source venv/bin/activate - Mac 
-6.Run the unittests
+6. Run the unittests
 
        python -m unittest   
-7.Run the program
+7. Run the program
 
        python start.py
-8.If input value is skipped, then a default random input value will be taken between 1 and 3999
+8. If input value is skipped, then a default random input value will be taken between 1 and 3999
 
 ## Distribution ##
 - A git repository
