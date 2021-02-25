@@ -17,20 +17,20 @@ Subtractive Notation method is useful for converting Arabic numbers into corresp
 2. Go to the project folder
 3. Install virtualenv (optional)
         
-        - pip install virtualenv
+        pip install virtualenv
 5. Create a virtual environment(venv) in project root folder (optional)
 
-        - virtualenv venv
+        virtualenv venv
 5. Go to the project folder and activate virtual environment (optional)
 
-        - venv/Scripts/activate.bat - Windows 
-        - source venv/bin/activate - Mac 
+        venv/Scripts/activate.bat - Windows 
+        source venv/bin/activate - Mac 
 6. Run the unittests
 
-       - python -m unittest   
+       python -m unittest   
 7. Run the program
 
-       - python start.py
+       python start.py
 8. If input value is skipped, then a default random input value will be taken between 1 and 3999
 
 ## Distribution ##
